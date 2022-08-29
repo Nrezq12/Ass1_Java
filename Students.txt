@@ -1,0 +1,10 @@
+
+IT Student >> ID : 120191156, Name : Ahmed Alashi, Major : Software Development, Grade : 99.2
+
+IT Student >> ID : 120191203, Name : Mohammed Awad, Major : Software Develnopment, Grade : 97.0
+
+ART Student >> ID : 120181922, Name : Abdullah Elmasri, Major : Drawing, Grade : 94.9
+
+IT Student >> ID : 120193212, Name : Ahmed Alkhodari, Major : Software Development, Grade : 94.7
+
+ART Student >> ID : 120192302, Name : Mohammed Sameer, Major : Painting, Grade : 93.7
