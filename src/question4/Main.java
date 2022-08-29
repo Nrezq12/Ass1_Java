@@ -36,15 +36,14 @@ public class Main {
     }
 
     public static void main(String[] args) throws IOException {
-        // This programm is Completely By Ahmed Hesham Alashi 120191156 ...
         // ItStudent Constructor >> id, name,major,mid(100),project(100),finalGrade(100)
         // ArtStudent Constructor >> id, name,major,mid(100),report(100),finalGrade(100)
         Student[] students = { // polymorphism
-            new ItStudent(120193212, "Ahmed Alkhodari", "Software Development", 95, 90, 98),
-            new ItStudent(120191203, "Mohammed Awad", "Software Develnopment", 93, 97, 100),
-            new ArtStudent(120192302, "Mohammed Sameer", "Painting", 92, 94, 95),
-            new ItStudent(120191156, "Ahmed Alashi", "Software Development", 100, 100, 98),
-            new ArtStudent(120181922, "Abdullah Elmasri", "Drawing", 90, 99, 98),
+            new ItStudent(220182145, "noor rezq", "Software Development", 95, 90, 98),
+            new ItStudent(8989898, "zaher ahmed", "Software Develnopment", 93, 97, 100),
+            new ArtStudent(7877868, "alaa emad", "Painting", 92, 94, 95),
+            new ItStudent(678787989, "amal ali", "Software Development", 100, 100, 98),
+            new ArtStudent(66676575, "ameera ameera", "Drawing", 90, 99, 98),
         };
         calculateGrade(students);
         sortingAndPrint(students);
